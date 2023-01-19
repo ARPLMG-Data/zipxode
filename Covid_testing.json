@@ -1,0 +1,9 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-9547152.0852,4604703.240500003]},"properties":{"Centers":"Americana","Address":"4805 Southside Dr, Louisville, KY 40214","Latitude":38.1787159785,"Longitude":-85.7635263795,"Council_Di":21,"Zip_Code":40214}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-9544285.7522,4613982.316100001]},"properties":{"Centers":"East Broadway","Address":"834 E Broadway, Louisville, KY 40204","Latitude":38.2442110355,"Longitude":-85.7377776721,"Council_Di":4,"Zip_Code":40204}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-9545755.8663,4595811.0079]},"properties":{"Centers":"Fairdale","Address":"1000 Neighborhood Place, Fairdale, KY 40118","Latitude":38.1158961087,"Longitude":-85.7509839317,"Council_Di":13,"Zip_Code":40118}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-9549453.1058,4605292.503600001]},"properties":{"Centers":"Iroquois","Address":"4100 Taylor Blvd. Louisville, KY 40215","Latitude":38.1828769621,"Longitude":-85.7841967992,"Council_Di":15,"Zip_Code":40215}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-9549512.5265,4617726.508100003]},"properties":{"Centers":"Portland","Address":"2215 Portland Ave. Louisville, KY 40212","Latitude":38.2706221987,"Longitude":-85.7847305845,"Council_Di":5,"Zip_Code":40212}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-9544544.6653,4614671.437299997]},"properties":{"Centers":"Phoenix","Address":"712 E. Muhammad Ali Blvd. Louisville, KY 40202","Latitude":38.2490727497,"Longitude":-85.740103528,"Council_Di":4,"Zip_Code":40202}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-9550348.8289,4616062.016900003]},"properties":{"Centers":"West Market","Address":"2500 West Market Street Louisville, KY 40212","Latitude":38.2588822263,"Longitude":-85.7922432167,"Council_Di":5,"Zip_Code":40212}}
+]}
